@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>Stubble.Helpers</id>
+        <version>$version$</version>
+        <title>Stubble.Helpers</title>
+        <authors>UiPath</authors>
+        <owners>UiPath</owners>
+        <description>A fork of the Stubble.Helpers package by Alex McAuliffe</description>
+        <language>en-US</language>
+        <projectUrl>https://github.com/DeanMauro/Stubble</projectUrl>
+        <licenseUrl>https://github.com/Romanx/Stubble/blob/master/licence.md</licenseUrl>
+        <copyright>Copyright © 2015</copyright>
+        <tags>template mustache text generation fast</tags>
+    </metadata>
+</package>
